@@ -1,0 +1,4 @@
+{:deps
+ ; https://github.com/dakrone/clj-http
+ {clj-http/clj-http {:mvn/version "3.12.3"}}}
+
